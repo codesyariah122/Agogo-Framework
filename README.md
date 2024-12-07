@@ -1,8 +1,8 @@
-# LINTAS PORTAL
+# Agogo Framework
 
 #### First import db
 
-**_import `db_lintas.sql` to your database, use database client like phpmyadmin or other_**
+**_import `db_agogo.sql` to your database, use database client like phpmyadmin or other_**
 
 **Run the command here:**
 
